@@ -38,9 +38,9 @@ https://github.com/meijieru/crnn.pytorch CRNN文本识别
  
 端到端：
 
-    没找到好用的，暂时别想了。
+没找到好用的，暂时别想了。
 
-    找到请贴在这里
+找到请贴在这里
 
  
 ### Dataset：
