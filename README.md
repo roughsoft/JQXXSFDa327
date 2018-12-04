@@ -24,6 +24,8 @@ https://github.com/Sierkinhane/crnn_chinese_characters_rec pytorch 中文识别
 
 https://github.com/jiangxiluning/FOTS.PyTorch FOTS.pytorch实现，只有检测部分，训练慢，暂时不建议用（8 gpu 3 days）
 
+https://github.com/ZJULearning/pixel_link 'PixelLink: Detecting Scene Text via Instance Segmentation' in AAAI2018
+ 
 https://github.com/songdejia/EAST EAST.pytorch实现，应该是最流行的检测器
 
 https://github.com/argman/EAST EAST.tensorflow实现
