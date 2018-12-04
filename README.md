@@ -8,7 +8,7 @@
 先拼出一个能用的end-to-end版本出来。各部分要统一框架，不需要分开训练。
 
 ## Reference:
-
+https://github.com/Jyouhou/SceneTextPapers A survey of OCR
 
 ### Code:
 
