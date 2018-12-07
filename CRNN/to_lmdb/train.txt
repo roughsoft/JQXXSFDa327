@@ -1,0 +1,10 @@
+/train_images/182_slinking_71711.jpg slinking
+/train_images/181_REMODELERS_64541.jpg REMODELERS
+/train_images/180_Chronographs_13538.jpg Chronographs
+/train_images/179_Impeaching_38222.jpg Impeaching
+/train_images/178_discombobulated_22063.jpg discombobulated
+/train_images/177_Loots_45256.jpg Loots
+/train_images/176_underpays_82187.jpg underpays
+/train_images/175_flameproofed_29323.jpg flameproofed
+/train_images/174_ENTICEMENTS_26024.jpg ENTICEMENTS
+/train_images/173_Ukase_81594.jpg Ukase
