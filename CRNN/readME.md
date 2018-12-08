@@ -5,7 +5,7 @@
 tar xf mjsynth.tar.gz
 ```
 
-### 2.Move the get_listtxt.py to the same dir as mnt (unzip from mjsynth.tar.gz)
+### 2.Move the mnt (unzip from mjsynth.tar.gz) to the dir *JQXXSFDa327/CRNN*
 ```
 python3 get_listtxt.py
 ```
@@ -17,7 +17,7 @@ val_list.txt
 ```
 ### 3.Convert img to lmdb
 
-open to_lmdb/tolmdb.py and set the *file_list* and *image_root* to your path 
+open tolmdb.py and set the *file_list* and *image_root* to your path 
 
 Then run with python2:
 ```
