@@ -21,6 +21,5 @@ open tolmdb.py and set the *file_list* and *image_root* to your path
 
 Then run with python2:
 ```
-cd to_lmdb
 python2 tolmdb.py
 ```
