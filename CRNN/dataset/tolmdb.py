@@ -79,10 +79,10 @@ def createDataset(outputPath, imagePathList, labelList, lexiconList=None, checkV
     print('Created dataset with %d samples' % nSamples)
 
 
-file_list=["/home/zyp/dataset/mjsynth/test_list.txt",
-           "/home/zyp/dataset/mjsynth/train_list.txt",
-           "/home/zyp/dataset/mjsynth/val_list.txt"]
-image_root = "/home/zyp/dataset/mjsynth/mnt/ramdisk/max/90kDICT32px"
+file_list=["test_list.txt",
+           "train_list.txt",
+           "val_list.txt"]
+image_root = "mnt/ramdisk/max/90kDICT32px"
 import os.path as osp
 if __name__ == '__main__':
     for file in file_list:
